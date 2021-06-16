@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ## My activities
-<a href="https://github.com/gdavid7/github-readme-stats">
+&nbsp; <a href="https://github.com/gdavid7/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavid7&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
 </a>
 <br/><br/>
