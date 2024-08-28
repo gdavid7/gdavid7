@@ -1,3 +1,3 @@
-dgershon@uci.edu
+dgershon [at] uci [dot] edu
 
 
